@@ -38,6 +38,6 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn/blob/main/modul1/output/output-soal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/brilianadinata/109082500011_BrilianAdinataSaoutra/blob/main/modul1/output/output-soal1.png)
 [penjelasan]
 
