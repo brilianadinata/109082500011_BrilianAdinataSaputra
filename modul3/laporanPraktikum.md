@@ -40,7 +40,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/brilianadinata/109082500011_BrilianAdinataSaputra/blob/main/modul3output/output-soal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/brilianadinata/109082500011_BrilianAdinataSaputra/blob/main/modul3/output-soal1.png)
 Program ini dibuat untuk menghitung permutasi dan kombinasi dari beberapa angka yang diinput oleh user. Di awal, kita diminta memasukkan 4 bilangan yaitu a, b, c, dan d. Setelah itu program akan menghitung permutasi dan kombinasi dari a terhadap c, lalu b terhadap d dengan bantuan fungsi faktorial. Hasilnya nanti ditampilkan dalam dua baris, baris pertama untuk a dan c, dan baris kedua untuk b dan d.
 
 
